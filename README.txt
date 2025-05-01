@@ -2,7 +2,7 @@ SparkMcp
 
 Real-time AI data analyst | Unlocking insights from live data streams
 
-![Image](https://github.com/SparkMcp/sparkmcp-main/blob/main/public/images/SparkMcp%20Flows.png)
+![Image](https://github.com/SparkMcp/sparkmcp-main/blob/main/public/images/SparkMcpFlows.png)
 
 SparkMcp is a cutting-edge, real-time AI data analysis platform that empowers tech enthusiasts and professionals alike to unlock actionable insights from live data streams. By harnessing the power of artificial intelligence and machine learning, SparkMcp transforms raw data into meaningful, data-driven decisions. Whether you're monitoring IoT devices, analyzing social media trends, or tracking financial markets, SparkMcp provides the tools you need to stay ahead in a data-rich world.
 
