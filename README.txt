@@ -1,6 +1,6 @@
 SparkMcp
 
-Real-time AI data analyst | Unlocking insights from live data streams
+Real-time AI data analyst | Unlocking insights from live data streams.
 
 ![image](https://github.com/SparkMcp/sparkmcp-main/blob/main/public/images/SparkMcpFlows.png)
 
