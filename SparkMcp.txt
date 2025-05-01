@@ -1,0 +1,8 @@
+┌─────────────────────────────────────────────────────────┐
+│                     SparkMcp Core                       │
+├─────────────┬─────────────────────────┬─────────────────┤
+│ Model Layer │     Connect Layer       │  Process Layer  │
+│  - ML/AI    │  - Stream Connectors    │ - Hot Processing│
+│  - Analytics│  - SQL Interface        │ - Cold Storage  │
+│  - Insights │  - Data Transformation  │ - Query Engine  │
+└─────────────┴─────────────────────────┴─────────────────┘
